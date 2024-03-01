@@ -1,5 +1,10 @@
 - 👋 Hi, I’m @ChahatRajput1
-- 👀 I’m interested in Learning DSA,DataScince and Machine Learning,AI,Want to lead a SDE team at google,Spending time with family
+- 👀 I’m interested in Learning
+- DSA
+- DataScince and Machine Learning
+- AI
+- Want to lead a SDE team at google
+- Spending time with family
 - 🌱 I’m currently learning DSA,DataScince and Machine Learning,AI
 - 💞️ I’m looking to collaborate on Data Science basic projects,Real Life Projects
 - 📫 How to reach me https://www.linkedin.com/in/chahat-rajput-681509242/
