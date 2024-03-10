@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on Data Science basic projects,Real Life Projects,Want to work with such type of community through which I can learn new things and solve a real world problems
 
-- 📫 How to reach me https://www.linkedin.com/in/chahat-rajput-681509242/
+- 📫 How to reach me chahatrajput207@gmail.com https://www.linkedin.com/in/chahat-rajput-681509242/
 
 - 😄 Pronouns: She,Her
 
