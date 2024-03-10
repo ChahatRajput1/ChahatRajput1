@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chahat Rajput
 
-- 👀 I’m interested in Learning DSA,DataScince and Machine Learning,AI,Want to lead a SDE team at google,Spending time with family
+- 👀 I’m interested in Learning Coding,DSA,DataScince and Machine Learning,AI,Want to lead a SDE team at google,Spending time with family
 
-- 🌱 I’m currently learning DSA,DataScince and Machine Learning,AI
+- 🌱 I’m currently learning DSA,DataScience,AI
 
 - 💞️ I’m looking to collaborate on Data Science basic projects,Real Life Projects,Want to work with such type of community through which I can learn new things and solve a real world problems
 
